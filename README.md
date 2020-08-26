@@ -1,6 +1,19 @@
-# ui_3
+# Flutter Foods UI Project
 
-A new Flutter project.
+I made this project to learn more about widgets in flutter.
+
+![](food_prototype.png)
+
+
+# In this project I learned How to deal with:
+
+- List of Map.
+
+- ListView.
+
+- Navigator.
+
+- Stateless and Stateful Widget.
 
 ## Getting Started
 
